@@ -37,3 +37,5 @@ from .deepnpts import DeepNPTS
 from .softs import SOFTS
 from .timemixer import TimeMixer
 from .kan import KAN
+from .rmok import RMoK
+
